@@ -20,6 +20,7 @@ body{
     width: 150px;
     height: 100%;
     
+    
 
 }
 
@@ -64,6 +65,7 @@ button{
     width: 40%;
     height: 30%px;
     margin: 10px auto;
+    background-color: rgb(55, 54, 54);
 }
 textarea{
     background-color: lightgreen;
