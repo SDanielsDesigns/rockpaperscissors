@@ -1,0 +1,81 @@
+textarea{
+    resize: none;
+    font-size: 15px;
+    text-align: center;
+
+}
+body{
+    background-image: url(./background.jpg);
+    background-size: cover;
+     background-repeat: no-repeat;
+     width: 100vw;
+     height: 100vh;
+}
+.counters{
+    /* position: absolute */
+    border: 5px solid;
+    border-radius: 30px 0px 30px 0px;
+    margin: 0;
+    padding: 20px;
+    width: 150px;
+    height: 100%;
+    
+
+}
+
+button{
+    border: 2px solid black;
+    border-radius: 10px;
+    position: relative;
+    height: 50px;
+    width: 100px;
+    background-image: linear-gradient(to right, lightgreen, lightgray) ;
+    
+}
+.choice-buttons{
+    margin: 0, auto;
+    padding: 0;
+    align-content: center;
+}
+.entire-game{
+    
+    position: relative;
+    /* display: block; */
+    border: 5px solid darkgray;
+    border-radius: 25px;
+    width: 80%;
+    height: 100%;
+    text-align: center;
+    margin: auto;
+    background-color: lightgray;
+    
+    
+    
+}
+.title-area{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: lightgreen;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+}
+.scores{
+    width: 40%;
+    height: 30%px;
+    margin: 10px auto;
+}
+textarea{
+    background-color: lightgreen;
+    border: 2px solid ;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 13pt;
+}
+p{
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
